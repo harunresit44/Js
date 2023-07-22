@@ -15,7 +15,7 @@ export const users = [
         firstName: "Beytullah",
         lastName: "Zor",
         city:"Ankara",
-        age: 36,
+        age: 21,
         creditCardNumber: "123456",
         type: "customer"
     },
@@ -33,8 +33,8 @@ export const users = [
         firstName: "Cansu",
         lastName: "Değirmen",
         city: "İstanbul",
+        age : 21,
         salary: 8000,
-        age:20,
         type: "employee"
     },
     {
@@ -43,7 +43,7 @@ export const users = [
         lastName: "Kaya",
         city: "Bolu",
         age: 23,
-        salary:17000,
+        salary: 15000,
         type: "employee"
     },
     {
